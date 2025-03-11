@@ -89,10 +89,3 @@ This project automates the collection, processing, and analysis of online data f
 - Improve **query optimization** for API calls.
 - Expand sources to include **news APIs & government records**.
 
-## License
-
-MIT License
-
----
-
-For contributions, feel free to open a **Pull Request** or report issues in the repository!
